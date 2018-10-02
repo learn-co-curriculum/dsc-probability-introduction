@@ -15,6 +15,6 @@ As data science often uses *statistical inference* to analyze or predict certain
 
 - How likely is it to end up with exactly 2 x heads and 3 x tails when flipping a coin 5 times?
 
-- How likely is it to throw  Tails first, then Head, Tail, Head-Tail when flipping a coin 5 times?
+- How likely is it to throw Tails first, then Head, then Tail, Head and Tail when flipping a coin 5 times?
 
 Now, let's dive deeper into the understanding of sets. Getting these concepts will make calculating your first probabilities much easier!
