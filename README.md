@@ -1,5 +1,5 @@
 
-# Introduction to Combinatorics
+# What is Probability?
 
 ## Introduction
 
@@ -22,6 +22,10 @@ As data science often uses *statistical inference* to analyze or predict certain
 - How likely is it to end up with exactly 2 x heads and 3 x tails when flipping a coin 5 times?
 
 - How likely is it to throw Tails first, then Head, then Tail, Head and Tail when flipping a coin 5 times?
+
+- If you throw 5 dice, what is the probability of throwing a "full house"?
+
+- What is the probability of drawing 2 consecutive aces from a deck of cards?
 
 ## Summary
 
