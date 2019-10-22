@@ -3,13 +3,13 @@
 
 ## Introduction
 
-As an aspiring data scientist, it is important to know the foundations of probability and combinatorics, as these areas form the backbone of many concepts in data science. In the following lessons and labs, you'll get a gentle introduction to several concepts that are related to probability, like sets, combinations, and permutations.
+As an aspiring data scientist, it's important to know the foundations of probability and combinatorics, as these areas form the backbone of many concepts in data science. In the following lessons and labs, you'll get a gentle introduction to several concepts that are related to probability, such as sets, combinations, and permutations.
 
 ## Objectives
 
 You will be able to:
 
-- Learn about some popular applications for probability
+- Define probability
 
 ## What is probability, and how does it relate to data science?
 
@@ -23,9 +23,9 @@ As data science often uses *statistical inference* to analyze or predict certain
 
 - How likely is it to throw tails first, then heads, then tails, then heads, then tails when flipping a coin 5 times?
 
-- If you throw 5 dice, what is the probability of throwing a "full house"?
+- If you throw 5 dice, what is the probability of throwing a ["full house"](http://grail.sourceforge.net/demo/yahtzee/rules.html)?
 
-- What is the probability of drawing 2 consecutive aces from a deck of cards?
+- What is the probability of drawing 2 consecutive aces from a standard deck of cards?
 
 ## Summary
 
