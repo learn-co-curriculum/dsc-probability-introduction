@@ -13,7 +13,7 @@ You will be able to:
 
 ## What is probability, and how does it relate to data science?
 
-Probability is the chance that a certain event will happen, in other words, how "likely" it is that some event will happen.
+Probability is the chance that a certain event will happen, in other words, how "likely" it is that some event will happen.
 
 As data science often uses *statistical inference* to analyze or predict certain events or trends, knowing probability and its applications is important because statistical inference uses probability distributions of the data. Although it might take a little more time for you to understand just how important the foundations of probability are for data science, by the end of the first part of the probability section, you'll be able to answer questions like:
 
